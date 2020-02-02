@@ -19,7 +19,7 @@
             android:name=".arch.bankDetail.BankDetailActivity"
             android:label="@string/title_activity_bank_detail"
             android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:theme="@style/AppTheme.TransparentStatusBar"/>
         <activity android:name=".arch.main.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
